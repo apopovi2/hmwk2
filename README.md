@@ -1,1 +1,2 @@
-# hmwk2
+Armin Popovic
+Assignment 2
